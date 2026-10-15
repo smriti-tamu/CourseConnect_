@@ -1,0 +1,41 @@
+mode,query,P@5,R@10,MRR@10,nDCG@10
+hybrid,what courses should I take to learn about deep learning,1.0,0.857,1.0,0.902
+hybrid,water resources engineering,1.0,0.75,1.0,0.927
+hybrid,bioinformatics and genomics,1.0,0.667,1.0,1.0
+hybrid,i'm interested in human computer interaction,0.8,1.0,1.0,0.97
+hybrid,reinforcement learning,0.4,1.0,1.0,1.0
+hybrid,financial risk management,0.6,1.0,1.0,0.955
+hybrid,distributed systems and cloud computing,1.0,0.857,1.0,0.908
+hybrid,computer vision,0.6,0.714,1.0,0.756
+hybrid,renewable energy systems,0.4,0.667,1.0,0.636
+hybrid,optimization methods for engineering,0.8,0.667,1.0,0.727
+hybrid,natural language processing,0.6,1.0,1.0,0.967
+hybrid,machine learning for healthcare,0.2,0.667,1.0,0.611
+hybrid,technical writing for engineers,0.4,0.6,1.0,0.655
+hybrid,database systems,0.6,0.714,1.0,0.775
+hybrid,animal nutrition,1.0,0.778,1.0,0.846
+hybrid,robotics and autonomous systems,0.8,0.5,1.0,0.63
+hybrid,data visualization,0.8,0.857,1.0,0.85
+hybrid,privacy and security in machine learning,0.2,1.0,1.0,0.784
+hybrid,epidemiology methods,1.0,0.625,1.0,1.0
+hybrid,public health statistics,0.0,0.25,0.125,0.123
+hybrid_rerank,what courses should I take to learn about deep learning,1.0,1.0,1.0,1.0
+hybrid_rerank,water resources engineering,0.8,0.667,1.0,0.851
+hybrid_rerank,bioinformatics and genomics,0.8,0.4,1.0,0.707
+hybrid_rerank,i'm interested in human computer interaction,0.8,0.667,1.0,0.775
+hybrid_rerank,reinforcement learning,0.4,1.0,1.0,1.0
+hybrid_rerank,financial risk management,0.6,1.0,1.0,0.949
+hybrid_rerank,distributed systems and cloud computing,1.0,0.857,1.0,0.908
+hybrid_rerank,computer vision,0.6,0.571,1.0,0.668
+hybrid_rerank,renewable energy systems,0.8,0.667,1.0,0.701
+hybrid_rerank,optimization methods for engineering,0.6,0.556,1.0,0.646
+hybrid_rerank,natural language processing,0.4,1.0,1.0,0.933
+hybrid_rerank,machine learning for healthcare,0.2,0.333,1.0,0.469
+hybrid_rerank,technical writing for engineers,0.6,0.6,1.0,0.723
+hybrid_rerank,database systems,0.8,0.857,1.0,0.862
+hybrid_rerank,animal nutrition,0.6,0.556,1.0,0.653
+hybrid_rerank,robotics and autonomous systems,1.0,0.5,1.0,0.649
+hybrid_rerank,data visualization,1.0,1.0,1.0,0.989
+hybrid_rerank,privacy and security in machine learning,0.4,1.0,1.0,0.818
+hybrid_rerank,epidemiology methods,1.0,0.5,1.0,0.848
+hybrid_rerank,public health statistics,0.2,0.25,1.0,0.39

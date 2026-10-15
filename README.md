@@ -429,3 +429,5 @@ If you plan to demo this in class, a clean order is:
 
 This project was created for an Information Storage and Retrieval course as an educational semantic retrieval application built on publicly accessible course catalog data.
 >>>>>>> master
+
+> **Labeling note:** relevance labels in `eval/labels.csv` were judged by an LLM (Claude) using the rule "would a student who typed this query want this course?", then spot-checked and corrected by hand.
